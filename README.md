@@ -1,12 +1,12 @@
-# Hi, I'm Jordy Hershel IG. 👋🏾
+# Hi, I'm Muhammad Ijaz 👋
 
-![Jordyhers' GitHub stats](https://github-readme-stats.vercel.app/api?username=jordyhers&show_icons=true&theme=buefy)
+![Jordyhers' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy)
 
 ```dart
-Flutter Developer | Swift UI | React Native | FirebasExpert
+Flutter Developer | Android Developer | Angular | Nestjs
 ```
 
-## ![](https://komarev.com/ghpvc/?username=jordyhers&color=green)
+## ![](https://komarev.com/ghpvc/?username=i-am-ijaz&color=green)
 
 ## ABOUT ME 💻
 
