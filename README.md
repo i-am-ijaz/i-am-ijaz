@@ -2,7 +2,7 @@
 
 ![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ijaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ijaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ```dart
 Flutter Developer | Android Developer | Angular | Nestjs
