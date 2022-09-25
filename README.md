@@ -12,11 +12,11 @@ I work with many different technologies and languages.
 My favorite ones are Android, Flutter, Nest.js, Node.js, MongoDB, and Angular.
 
 <img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" title="Android" alt="Android Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="40"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="30"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="Nestjs" alt="Nestjs Logo" width="40"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Nodejs" alt="Node Logo" width="40"/>&emsp;
-<img src="https://worldvectorlogo.com/logo/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="40"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="40"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Nodejs" alt="Node Logo" width="50"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="40"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="30"/>&emsp;
 
 
 ![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
