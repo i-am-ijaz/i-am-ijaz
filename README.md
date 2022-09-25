@@ -20,6 +20,14 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="30"/>&emsp;
 
 
+## <a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium" width="25"/></a> Recent Articles on Medium
+ <!-- DEVTO-BLOG-LIST:START -->
+- [Semantic Software Versioning: A Guide](https://medium.com/@m.ijaz/semantic-software-versioning-a-guide-1adb229ebba8)
+- [Fix the bugs before they kill production: An old-school wisdom](https://medium.com/cybr-notes/fix-the-bugs-before-they-kill-production-an-old-school-wisdom-5a4a48db0de7)
+- [Tips & Tricks for Flutter Development — Part 1](https://medium.com/@m.ijaz/flutter-tips-and-tricks-for-flutter-development-part-1-fbbaccaa06bd)
+<!-- DEVTO-BLOG-LIST:END -->
+
+
 ![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ijaz)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,9 +37,6 @@ Flutter Developer | Android Developer | Angular | Nestjs
 ```
 
 ## ![](https://komarev.com/ghpvc/?username=i-am-ijaz&color=green)
-
-## ABOUT ME 💻
-
 
 
 ## CONTACT INFO 👨🏾‍💼
