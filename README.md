@@ -39,5 +39,7 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 
 ## ![](https://komarev.com/ghpvc/?username=i-am-ijaz&color=green)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/Ijaz34"><img src="https://api.daily.dev/devcards/f805078a55474281986f031db33d233d.png?r=49c" width="400" alt="Muhammad Ijaz's Dev Card"/></a>
+
+
 
