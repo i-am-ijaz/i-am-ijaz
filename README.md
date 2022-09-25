@@ -17,4 +17,4 @@ My name is Muhammad Ijaz. I am a talented young mobile application developer. I 
 ## CONTACT INFO 👨🏾‍💼
 
 <a href="https://www.linkedin.com/in/i-am-ijaz/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-<a href=https://twitter.com/i_am__ijaz"<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+<a href="https://twitter.com/i_am__ijaz"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
