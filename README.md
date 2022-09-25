@@ -1,5 +1,9 @@
 # Hi 👋, I'm Muhammad Ijaz
 
+<a href="https://www.linkedin.com/in/i-am-ijaz/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="40"/></a>
+&ensp;<a href="https://twitter.com/i_am__ijaz"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+&ensp;<a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Account" width="40"/></a>
+
 I am a Computer Scientist interested in  **iOS.**
 
 I've been a Full Stack Developer at [Cybrnode](https://github.com/cybrnode/) for over a year. 
@@ -35,9 +39,3 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 
 ## ![](https://komarev.com/ghpvc/?username=i-am-ijaz&color=green)
 
-
-## CONTACT INFO 👨🏾‍💼
-
-<a href="https://www.linkedin.com/in/i-am-ijaz/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="40"/></a>
-&ensp;<a href="https://twitter.com/i_am__ijaz"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-&ensp;<a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Account" width="40"/></a>
