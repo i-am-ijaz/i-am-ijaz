@@ -1,4 +1,23 @@
-# Hi, I'm Muhammad Ijaz 👋
+# Hi 👋, I'm Muhammad Ijaz
+
+I am a Computer Scientist interested in  **iOS.**
+
+I've been a Full Stack Developer at [Cybrnode](https://github.com/cybrnode/) for over a year. 
+
+Developing mobile applications for the last 3 years.
+
+## 🥞 Tech Stack
+ 
+I work with many different technologies and languages. 
+My favorite ones are Android, Flutter, Nest.js, Node.js, MongoDB, and Angular.
+
+<img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" title="Android" alt="Android Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="Nestjs" alt="Nestjs Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Nodejs" alt="Node Logo" width="80"/>&emsp;
+<img src="https://worldvectorlogo.com/logo/mongodb-icon-1" title="MongoDB" alt="MongoDB Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="80"/>&emsp;
+
 
 ![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
 
@@ -12,7 +31,7 @@ Flutter Developer | Android Developer | Angular | Nestjs
 
 ## ABOUT ME 💻
 
-My name is Muhammad Ijaz. I am a talented young mobile application developer. I have been developing Mobile application for 3 years now.
+
 
 ## CONTACT INFO 👨🏾‍💼
 
