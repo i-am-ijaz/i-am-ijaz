@@ -31,13 +31,13 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 - [Tips & Tricks for Flutter Development — Part 1](https://medium.com/@m.ijaz/flutter-tips-and-tricks-for-flutter-development-part-1-fbbaccaa06bd)
 <!-- DEVTO-BLOG-LIST:END -->
 
-## <img src="https://img.icons8.com/fluency/344/futures.png" title="Github Stats" alt="Github Stats Icon" width="25"/> Github Stats
+## <img src="https://img.icons8.com/fluency/344/futures.png" title="Github Stats" alt="Github Stats Icon" width="20"/> Github Stats
 ![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
 
 ## 🖥⌨ Most used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ijaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## <img src="https://cdn.worldvectorlogo.com/logos/siphon.svg" title="Icon" alt="DevCard" width="25"/> My DevCard
+## <img src="https://cdn.worldvectorlogo.com/logos/siphon.svg" title="Icon" alt="DevCard" width="20"/> My DevCard
 <a href="https://app.daily.dev/i_am_ijaz"><img src="https://github.com/i-am-ijaz/i-am-ijaz/blob/main/devcard.svg" width="400" alt="Muhammad Ijaz's Dev Card"/></a>
 
 
