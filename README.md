@@ -31,7 +31,7 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 - [Tips & Tricks for Flutter Development — Part 1](https://medium.com/@m.ijaz/flutter-tips-and-tricks-for-flutter-development-part-1-fbbaccaa06bd)
 <!-- DEVTO-BLOG-LIST:END -->
 
-## Github Stats
+## <img src="https://pics.freeicons.io/uploads/icons/png/10652021191600459983-512.png" title="Github Stats" alt="Github Stats Icon" width="25"/> Github Stats
 ![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
 
 ## 🖥⌨ Most used Languages 
