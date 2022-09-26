@@ -24,7 +24,7 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular" alt="Angular Logo" width="30"/>&emsp;
 
 
-## <a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium" width="25"/></a> Recent Articles on Medium
+## <a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium" width="20"/></a> Recent Articles on Medium
  <!-- DEVTO-BLOG-LIST:START -->
 - [Semantic Software Versioning: A Guide](https://medium.com/@m.ijaz/semantic-software-versioning-a-guide-1adb229ebba8)
 - [Fix the bugs before they kill production: An old-school wisdom](https://medium.com/cybr-notes/fix-the-bugs-before-they-kill-production-an-old-school-wisdom-5a4a48db0de7)
