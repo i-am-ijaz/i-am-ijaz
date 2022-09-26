@@ -37,7 +37,7 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 ## 🖥⌨ Most used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ijaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My DevCard
+## <img src="https://cdn.worldvectorlogo.com/logos/siphon.svg" title="Icon" alt="DevCard" width="25"/> My DevCard
 <a href="https://app.daily.dev/i_am_ijaz"><img src="https://github.com/i-am-ijaz/i-am-ijaz/blob/main/devcard.svg" width="400" alt="Muhammad Ijaz's Dev Card"/></a>
 
 
