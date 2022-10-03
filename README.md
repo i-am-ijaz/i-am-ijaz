@@ -29,7 +29,7 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
  <!-- DEVTO-BLOG-LIST:START -->
 - [Semantic Software Versioning: A Guide](https://medium.com/@m.ijaz/semantic-software-versioning-a-guide-1adb229ebba8)
 - [Fix the bugs before they kill production: An old-school wisdom](https://medium.com/cybr-notes/fix-the-bugs-before-they-kill-production-an-old-school-wisdom-5a4a48db0de7)
-- [Tips & Tricks for Flutter Development — Part 1](https://medium.com/@m.ijaz/flutter-tips-and-tricks-for-flutter-development-part-1-fbbaccaa06bd)
+- [5 Lifesaving Extensions for Flutter Developers](https://medium.com/@m.ijaz/5-lifesaving-extensions-for-flutter-developers-afe5b37b6472)
 <!-- DEVTO-BLOG-LIST:END -->
 
 ## <img src="https://img.icons8.com/fluency/344/futures.png" title="Github Stats" alt="Github Stats Icon" width="20"/> Github Stats
