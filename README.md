@@ -26,14 +26,12 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 
 ## <a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium" width="20"/></a> Recent Articles on Medium
 
- <!-- DEVTO-BLOG-LIST:START -->
 - [Semantic Software Versioning: A Guide](https://medium.com/@m.ijaz/semantic-software-versioning-a-guide-1adb229ebba8)
 - [Fix the bugs before they kill production: An old-school wisdom](https://medium.com/cybr-notes/fix-the-bugs-before-they-kill-production-an-old-school-wisdom-5a4a48db0de7)
 - [5 Lifesaving Extensions for Flutter Developers](https://medium.com/@m.ijaz/5-lifesaving-extensions-for-flutter-developers-afe5b37b6472)
-<!-- DEVTO-BLOG-LIST:END -->
 
 ## <img src="https://img.icons8.com/fluency/344/futures.png" title="Github Stats" alt="Github Stats Icon" width="20"/> Github Stats
-![Muhammad Ijaz' GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
+![Muhammad Ijaz' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
 
 ## <img src="https://img.icons8.com/fluency/344/mac-book-pro-m1.png" title="Languages Used" alt="Languages used icon" width="20"/> Most used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ijaz&layout=compact)
