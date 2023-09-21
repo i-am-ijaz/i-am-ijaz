@@ -16,7 +16,7 @@ Developing mobile applications for the last **4 years**.
 I work with many different technologies and languages. 
 My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angular.
 
-<img src="https://cdn.worldvectorlogo.com/logos/android-4.svg" title="Android" alt="Android Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" title="Android" alt="Android Logo" width="40"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" title="Flutter" alt="Flutter Logo" width="30"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" title="Dart" alt="Dart Logo" width="40"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="Nestjs" alt="Nestjs Logo" width="40"/>&emsp;
