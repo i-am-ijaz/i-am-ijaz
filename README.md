@@ -4,11 +4,11 @@
 &ensp;<a href="https://twitter.com/i_am__ijaz"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 &ensp;<a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Account" width="40"/></a>
 
-I am a Computer Scientist interested in  **iOS.**
+I am a Computer Scientist interested to become a  **Flutter GDE.**
 
-I've been a Full Stack Developer at [Cybrnode](https://github.com/cybrnode/) for over a year. 
+I've been a **Lead Flutter Developer** at [Cybrnode](https://github.com/cybrnode/) for over two years. 
 
-Developing mobile applications for the last 3 years.
+Developing mobile applications for the last **4 years**.
 
 ## 🥞 Tech Stack
  
