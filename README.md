@@ -32,7 +32,7 @@ My favorite ones are Android, Flutter, Dart, Nest.js, Node.js, MongoDB, and Angu
 - [5 Lifesaving Extensions for Flutter Developers](https://medium.com/@m.ijaz/5-lifesaving-extensions-for-flutter-developers-afe5b37b6472)
 
 ## <img src="https://img.icons8.com/fluency/344/futures.png" title="Github Stats" alt="Github Stats Icon" width="20"/> Github Stats
-![Muhammad Ijaz' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy&hide=prs)
+![Muhammad Ijaz' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i-am-ijaz&show_icons=true&theme=buefy)
 
 ## <img src="https://img.icons8.com/fluency/344/mac-book-pro-m1.png" title="Languages Used" alt="Languages used icon" width="20"/> Most used Languages 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i-am-ijaz&layout=compact)
