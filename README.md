@@ -1,14 +1,15 @@
 # Hi 👋, I'm Muhammad Ijaz
 
-<a href="https://www.linkedin.com/in/i-am-ijaz/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="40"/></a>
-&ensp;<a href="https://twitter.com/i_am__ijaz"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-&ensp;<a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Account" width="40"/></a>
-
 I am a Computer Scientist interested to become a  **Flutter GDE.**
 
 I've been a **Lead Flutter Developer** at [Cybrnode](https://github.com/cybrnode/) for over two years. 
 
 Developing mobile applications for the last **4 years**.
+
+## 🤔 Find me on
+<a href="https://www.linkedin.com/in/i-am-ijaz/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="40"/></a>
+&ensp;<a href="https://twitter.com/i_am__ijaz"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+&ensp;<a href="https://medium.com/@m.ijaz"><img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Account" width="40"/></a>
 
 ## 🥞 Tech Stack
  
