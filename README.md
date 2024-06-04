@@ -2,8 +2,6 @@
 
 I am a Computer Scientist interested to become a  **Flutter GDE.**
 
-I've been a **Lead Flutter Developer** at [Cybrnode](https://github.com/cybrnode/) for over two years. 
-
 Developing mobile applications for the last **4 years**.
 
 ## 🤔 Find me on
