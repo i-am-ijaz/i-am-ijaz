@@ -1,8 +1,6 @@
 # Hi 👋, I'm Muhammad Ijaz
 
-I am a Computer Scientist interested to become a  **Flutter GDE.**
-
-Developing mobile applications for the last **4 years**.
+I am a Computer Scientist and building for public
 
 ## 🤔 Find me on
 <a href="https://www.linkedin.com/in/i-am-ijaz/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="40"/></a>
